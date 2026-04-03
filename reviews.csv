@@ -1,0 +1,6 @@
+author,rating,review,summary
+User1,5,The product quality is really good and I am satisfied.,"Error: Error code: 404 - {'error': {'message': 'No endpoints found for mistralai/mistral-7b-instruct.', 'code': 404}, 'user_id': 'user_3BqUsRWSnerUbAnLR6ZcdPUaTOq'}"
+User2,2,Not worth the price. Very poor performance.,"Error: Error code: 404 - {'error': {'message': 'No endpoints found for mistralai/mistral-7b-instruct.', 'code': 404}, 'user_id': 'user_3BqUsRWSnerUbAnLR6ZcdPUaTOq'}"
+User3,3,Average experience. It works fine but nothing special.,"Error: Error code: 404 - {'error': {'message': 'No endpoints found for mistralai/mistral-7b-instruct.', 'code': 404}, 'user_id': 'user_3BqUsRWSnerUbAnLR6ZcdPUaTOq'}"
+User4,5,Excellent build quality and fast delivery.,"Error: Error code: 404 - {'error': {'message': 'No endpoints found for mistralai/mistral-7b-instruct.', 'code': 404}, 'user_id': 'user_3BqUsRWSnerUbAnLR6ZcdPUaTOq'}"
+User5,1,Bad packaging and delayed shipping.,"Error: Error code: 404 - {'error': {'message': 'No endpoints found for mistralai/mistral-7b-instruct.', 'code': 404}, 'user_id': 'user_3BqUsRWSnerUbAnLR6ZcdPUaTOq'}"
